@@ -4,6 +4,8 @@
 A web-based visitor logging system for NEU Library with Google authentication and role-based access.
 
 ## 🚀 Live Application
+https://neu-library-lckmb2icl-justinecarlaparehado-pixels-projects.vercel.app/
+
 http://localhost:3000/
 
 ## 🛠️ Tech Stack
