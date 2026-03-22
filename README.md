@@ -4,7 +4,7 @@
 A web-based visitor logging system for NEU Library with Google authentication and role-based access.
 
 ## 🚀 Live Application
-https://your-vercel-link.vercel.app
+https://neu-library-log-ij8t.vercel.app/
 
 ## 🛠️ Tech Stack
 - React JS
@@ -13,4 +13,5 @@ https://your-vercel-link.vercel.app
 
 ## 👤 Author
 Justine Carl A. Aparehado
--2BSIT-4
+
+2BSIT-4
